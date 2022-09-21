@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Mark Lees
+# This file is distributed under the same license as the SEaB Energy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SEaB Energy \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-21 09:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/example.rst:2
+msgid "Technical File"
+msgstr ""
+
+#: ../../source/example.rst:5
+msgid "Technical File Information"
+msgstr ""
+
+#: ../../source/example.rst:7
+msgid "All CE marking directives (and this applies also to UKCA marking) require the manufacturer of the product to create a technical file which should contain the information required to show that the product properly complies with the requirements of the directives which apply to it."
+msgstr ""
+
+#: ../../source/example.rst:13
+msgid "The directives contain clauses which give some general details of the kind of information which will be required in the technical file, but this is couched in the most general of terms. As a general guide, the following items should be included:"
+msgstr ""
+
+#: ../../source/example.rst:18
+msgid "Description of the apparatus, usually accompanied by a block diagram"
+msgstr ""
+
+#: ../../source/example.rst:19
+msgid "Wiring and circuit diagrams"
+msgstr ""
+
+#: ../../source/example.rst:20
+msgid "General Arrangement drawing"
+msgstr ""
+
+#: ../../source/example.rst:21
+msgid "List of standards applied"
+msgstr ""
+
+#: ../../source/example.rst:22
+msgid "Records of risk assessments and assessments to standards"
+msgstr ""
+
+#: ../../source/example.rst:23
+msgid "Description of control philosophy/logic"
+msgstr ""
+
+#: ../../source/example.rst:24
+msgid "Data sheets for critical sub-assemblies"
+msgstr ""
+
+#: ../../source/example.rst:25
+msgid "Parts list"
+msgstr ""
+
+#: ../../source/example.rst:26
+msgid "Copies of any markings and labels"
+msgstr ""
+
+#: ../../source/example.rst:27
+msgid "Copy of instructions (user, maintenance, installation)"
+msgstr ""
+
+#: ../../source/example.rst:28
+msgid "Test reports"
+msgstr ""
+
+#: ../../source/example.rst:29
+msgid "Quality control & commissioning procedures"
+msgstr ""
+
+#: ../../source/example.rst:30
+msgid "Declaration of Conformity"
+msgstr ""
+
+#: ../../source/example.rst:32
+msgid "There is nothing to stop the file containing a great deal more information than is listed here - for instance, copies of the engineering drawings for any bespoke parts could also be included. However, these should not be used to pack the file at the expense of the more relevant information on how the equipment operates and how it meets the safety objectives of the Directives. Of course, for simple products (e.g. household domestic appliances) the control philosophy may be so simple as to be self-evident, in which case it is unnecessary for the file to include this information. Often, this sort of product will be the subject of a notified body report confirming compliance to a harmonised standard and a copy of the report should be included in the file. The importance of including a basic general description of the appliance cannot be overstated. Furthermore, the action of providing a properly documented description of the control system will often allow the designer to spot potential flaws in the logic of the operation."
+msgstr ""
+
+#: ../../source/example.rst:49
+msgid "Access to the Technical File"
+msgstr ""
+
+#: ../../source/example.rst:51
+msgid "It is important to understand that only the authorities given the power to enforce the directives have a right to see the technical file. It does not need to be published or given to customers. With the exception of the Medical Devices Directive, there is no clear requirement that the file should be kept on EU soil. However, for a manufacturer based outside of the EU, any approach made by the authorities will initially come to the authorised agent or the importer of the goods, so they must have access to the file to be able to fulfil their legal obligations. Access to technical information may also be a condition of contract laid down by some customers."
+msgstr ""
+
+#: ../../source/example.rst:62
+msgid "The Machinery Directive requires manufacturers based outside Europe to appoint someone within Europe to act as the contact point for their technical documents."
+msgstr ""
+
+#: ../../source/example.rst:67
+msgid "When should the file be created?"
+msgstr ""
+
+#: ../../source/example.rst:69
+msgid "Different directives treat the creation of the file with different priorities. The LVD strictly requires the manufacturer to have the file in place before the CE mark is applied, whereas the Machinery Directive says that the file does not have to be in constant existence and thereby provides for a period of grace in which it can be compiled. In practice, it usually makes sense to ensure the file is created early in the life of a product and is then kept up to date."
+msgstr ""
+
+#: ../../source/example.rst:77
+msgid "For some directives the creation of the file and its assessment by a Notified Body are a pre-requisite for proper compliance with the Directives. This is the case for the higher classes of medical device, personal protective equipment and for equipment for explosive atmospheres. Assessment of the technical file is also a requirement for Type Approval under the Machinery Directive."
+msgstr ""
+
+#: ../../source/example.rst:84
+msgid "There are also other reasons why it makes sense to compile the file at the time the product is originally designed rather than waiting until a request is received from an enforcement body. Firstly, there is the problem that much of the information required for the file (particularly component data and supplier information) may no longer be available several years after the product design has been completed. Secondly, the file can form a useful repository for information on changes to the design or manufacturing processes used to make the product. Finally, if used correctly, the file can itself become a useful way to manage the process of properly completing the CE marking process: if a list of the contents required for the file is drawn up at an early stage then this list can be used to identify whether all of the necessary steps have been completed by identifying the relevant information in the file for each stage in the process."
+msgstr ""
+
+#: ../../source/example.rst:100
+msgid "Delivery of the file"
+msgstr ""
+
+#: ../../source/example.rst:102
+msgid "The purpose of the Technical File is to provide evidence for an enforcement authority that the product has correctly completed the assessment and attestation procedures of the relevant directive(s)."
+msgstr ""
+
+#: ../../source/example.rst:106
+msgid "The enforcement authorities have the right to demand a copy of the file for up to 10 years after the last date on which the product(s) described in the file was made. This is by no means a trivial requirement - changes in personnel, company facilities, IT systems and file formats all represent major challenges to guaranteeing the availability of the required information and need to be considered carefully."
+msgstr ""
+
+#: ../../source/example.rst:113
+msgid "The file must be delivered ‘in material form’ which may be taken to mean as a paper copy. In practice, however, the enforcement bodies are likely to be satisfied with an electronic version, and in fact may only demand specific sections of the file if their concerns relate to specific aspects of the product’s compliance with the directives."
+msgstr ""
+
+#: ../../source/example.rst:119
+msgid "The file has to be drawn up in a European language, and will normally be requested by the relevant enforcement body for the country and region in which the manufacturer of the product is located (the “Home Authority Principle”). The manufacturer is not obliged to translate the file before delivery to an enforcement authority from outside their home country."
+msgstr ""

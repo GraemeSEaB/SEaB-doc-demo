@@ -1,0 +1,293 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Mark Lees
+# This file is distributed under the same license as the SEaB Energy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SEaB Energy \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-21 09:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/overview.rst:2
+msgid "Overview"
+msgstr ""
+
+#: ../../source/overview.rst:4
+msgid "This is an overview document that follows on from the Documentation report issued last week."
+msgstr ""
+
+#: ../../source/overview.rst:6
+msgid "This content is produced in RST_ (reStructuredText), but could also have equally been produced in Markdown_ although RST is more versatile and produces better looking web content."
+msgstr ""
+
+#: ../../source/overview.rst:12
+msgid "RST has many advanced features, too many to list in this introductory document, but I will detail some within this content. One useful feature is the ability to include content from other sources by using the `include` directive."
+msgstr ""
+
+#: ../../source/overview.rst:16
+msgid "The include directive looks like this::"
+msgstr ""
+
+#: ../../source/overview.rst:20
+msgid "The include will only display in a compiled HTML file, so in Github there will be a blank space below (where the include statement sits):"
+msgstr ""
+
+#: ../../source/demo.txt:1
+msgid "This is a plain text file that can be used to include repeatable text, or information that may need to be changed on an infrequent basis (such as address details)."
+msgstr ""
+
+#: ../../source/overview.rst:27
+msgid "Objective"
+msgstr ""
+
+#: ../../source/overview.rst:29
+msgid "This content is here to show some of the features of RST and Sphinx, but its main purpose is to give you something to review and comment on."
+msgstr ""
+
+#: ../../source/overview.rst:32
+msgid "RST is very sensitive about white space. It may be better to add comments/changes to the pdf version of the file rather than the RST itself"
+msgstr ""
+
+#: ../../source/overview.rst:36
+msgid "Tools"
+msgstr ""
+
+#: ../../source/overview.rst:38
+msgid "Several software tools are being used in the creation of content:"
+msgstr ""
+
+#: ../../source/overview.rst:40
+msgid "Sublime Text - the editor used for RST content"
+msgstr ""
+
+#: ../../source/overview.rst:41
+msgid "MarkdownPad2 - the editor used for Markdown content"
+msgstr ""
+
+#: ../../source/overview.rst:42
+msgid "Sphinx - the static site generator (HTML)"
+msgstr ""
+
+#: ../../source/overview.rst:43
+msgid "Sphinx-intl -the localisation add in for Sphinx (to produce translation files)"
+msgstr ""
+
+#: ../../source/overview.rst:44
+msgid "RST2PDF - the generator used to produce PDF files"
+msgstr ""
+
+#: ../../source/overview.rst:45
+msgid "Pandoc - for conversion of files (e.g., from RST to .docx)"
+msgstr ""
+
+#: ../../source/overview.rst:46
+msgid "Vale - a linter and style checker"
+msgstr ""
+
+#: ../../source/overview.rst:48
+msgid "With the exception of Sublime Text and MarkdownPad2, all the other tools are Linux CLI (command line) tools."
+msgstr ""
+
+#: ../../source/overview.rst:52
+msgid "Features"
+msgstr ""
+
+#: ../../source/overview.rst:54
+msgid "A few features of RST:"
+msgstr ""
+
+#: ../../source/overview.rst:56
+msgid "Tables:"
+msgstr ""
+
+#: ../../source/overview.rst:59
+msgid "Header row, column 1"
+msgstr ""
+
+#: ../../source/overview.rst:59
+msgid "Header 2"
+msgstr ""
+
+#: ../../source/overview.rst:59
+msgid "Header 3"
+msgstr ""
+
+#: ../../source/overview.rst:61
+msgid "body row 1, column 1"
+msgstr ""
+
+#: ../../source/overview.rst:61
+msgid "column 2"
+msgstr ""
+
+#: ../../source/overview.rst:61
+msgid "column 3"
+msgstr ""
+
+#: ../../source/overview.rst:62
+msgid "body row 2"
+msgstr ""
+
+#: ../../source/overview.rst:62
+msgid "Cells may span columns"
+msgstr ""
+
+#: ../../source/overview.rst:66
+msgid "Image"
+msgstr ""
+
+#: ../../source/overview.rst:66
+msgid "Description"
+msgstr ""
+
+#: ../../source/overview.rst:68
+msgid "Dangerous voltage"
+msgstr ""
+
+#: ../../source/overview.rst:72
+msgid "Admonitions:"
+msgstr ""
+
+#: ../../source/overview.rst:74
+msgid "This is some warning text"
+msgstr ""
+
+#: ../../source/overview.rst:77
+msgid "This is some text to draw attention"
+msgstr ""
+
+#: ../../source/overview.rst:79
+msgid "You can also create custom admonitions:"
+msgstr ""
+
+#: ../../source/overview.rst:82
+msgid "Warning! Dangerous voltage present"
+msgstr ""
+
+#: ../../source/overview.rst:85
+msgid "Custom"
+msgstr ""
+
+#: ../../source/overview.rst:87
+msgid "This is a custom admonition"
+msgstr ""
+
+#: ../../source/overview.rst:90
+msgid "Code:"
+msgstr ""
+
+#: ../../source/overview.rst:92
+msgid "Code can be displayed in a number of ways. In a table:"
+msgstr ""
+
+#: ../../source/overview.rst:95
+msgid "Code 1"
+msgstr ""
+
+#: ../../source/overview.rst:95
+msgid "Code 2"
+msgstr ""
+
+#: ../../source/overview.rst:97
+msgid "foo.c"
+msgstr ""
+
+#: ../../source/overview.rst:97
+msgid "bar.c"
+msgstr ""
+
+#: ../../source/overview.rst:108
+msgid "or in a code block:"
+msgstr ""
+
+#: ../../source/overview.rst:110
+msgid "EXT:site_package/Configuration/TCA/Overrides/sys_template.php"
+msgstr ""
+
+#: ../../source/overview.rst:123
+msgid "Emphasis:"
+msgstr ""
+
+#: ../../source/overview.rst:125
+msgid "**Bold**"
+msgstr ""
+
+#: ../../source/overview.rst:127
+msgid "*Italic*"
+msgstr ""
+
+#: ../../source/overview.rst:129
+msgid "`Interpreted` text"
+msgstr ""
+
+#: ../../source/overview.rst:131
+msgid "Footnotes or endnotes [1]_"
+msgstr ""
+
+#: ../../source/overview.rst:134
+msgid "Mathematics:"
+msgstr ""
+
+#: ../../source/overview.rst:136
+msgid "RST, Sphinx and RST2PDF all have support for mathematics and complex formulae."
+msgstr ""
+
+#: ../../source/overview.rst:138
+msgid "A couple of examples -"
+msgstr ""
+
+#: ../../source/overview.rst:140
+msgid "y-y_0=m(x-x_0)"
+msgstr ""
+
+#: ../../source/overview.rst:144
+msgid "{J(\\theta) =\\frac{1}{2m} [\\sum^m_{i=1}(h_\\theta(x^{(i)}) - y^{(i)})2 + \\lambda\\sum^n_{j=1}\\theta^2_j}]"
+msgstr ""
+
+#: ../../source/overview.rst:150
+msgid "Other Content"
+msgstr ""
+
+#: ../../source/overview.rst:152
+msgid "If you browse through the repository, you will find several other directories."
+msgstr ""
+
+#: ../../source/overview.rst:156
+msgid "Browse through then to see the content. The **'.config'** directory only contains a single file ``conf.py``, which is the configuration file for Sphinx. The **'language'** directories will contain the gettext strings for translation."
+msgstr ""
+
+#: ../../source/overview.rst:160
+msgid "Within the **'documents'** directory are some other sub-directories of interest:"
+msgstr ""
+
+#: ../../source/overview.rst:164
+msgid "You are already in the **'source'** directory (and there is a Markdown file included in the **'md'** subdirectory for comparison), but the **'build'** directory contains the html and pdf versions of the RST source files. Take a look at both sets of files to get a feel for how content will ber produced."
+msgstr ""
+
+#: ../../source/overview.rst:169
+msgid "GitHub will give a preview of the pdf file (but none of the links will work), and will display the code for the HTML files, not the content. A zip file **'html-docs.zip'** can be downloaded to allow viewing the HTML content as intended."
+msgstr ""
+
+#: ../../source/overview.rst:173
+msgid "The HTML and PDF content are not yet styled and are using default settings"
+msgstr ""
+
+#: ../../source/overview.rst:177
+msgid "More Detail"
+msgstr ""
+
+#: ../../source/overview.rst:179
+msgid "The other pages in this demo content are **'guide.rst'** (a fairly long document that details many of the features of RST), and **'example.rst'** (an example of a very boring Markdown file converted to RST using pandoc)."
+msgstr ""
+
+#: ../../source/overview.rst:186
+msgid "A footnote or endnote"
+msgstr ""
